@@ -16,6 +16,8 @@ export let users: UsersType = {
     '1212': {id: 1212, name: 'Valera' },
     '1': {id: 1, name: 'Katya' },
 }
+
+
 // users[1]
 
 let user = { id: 100500, name: 'Igor'}
